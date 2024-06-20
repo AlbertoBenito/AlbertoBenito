@@ -1,5 +1,5 @@
 <center>
-  ![Imagen decorativa de tu perfil](./foto.jpg)
+  <p>  <img src="./foto.jpg" alt="Imagen decorativa de tu perfil"></p>
 </center>
 
 
