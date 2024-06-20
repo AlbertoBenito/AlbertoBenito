@@ -1,4 +1,7 @@
-![Imagen decorativa de tu perfil](./foto.jpg)
+<center>
+  ![Imagen decorativa de tu perfil](./foto.jpg)
+</center>
+
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy ALBERTO BENITO</h1>
