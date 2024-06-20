@@ -1,6 +1,5 @@
-<center>
-  <p>  <img src="./foto.jpg" alt="Imagen decorativa de tu perfil"></p>
-</center>
+
+  <p align="center">  <img src="./foto.jpg" alt="Imagen decorativa de tu perfil"></p>
 
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
